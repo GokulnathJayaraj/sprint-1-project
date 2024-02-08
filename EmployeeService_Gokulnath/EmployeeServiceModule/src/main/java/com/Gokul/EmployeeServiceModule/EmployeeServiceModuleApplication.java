@@ -1,4 +1,4 @@
-package com.priya.EmployeeServiceModule;
+package com.Gokul.EmployeeServiceModule;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
