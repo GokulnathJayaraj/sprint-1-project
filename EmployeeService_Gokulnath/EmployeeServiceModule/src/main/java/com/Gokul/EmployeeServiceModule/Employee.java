@@ -1,4 +1,4 @@
-package com.priya.EmployeeServiceModule;
+package com.Gokul.EmployeeServiceModule;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
