@@ -1,4 +1,4 @@
-package com.priya.EmployeeServiceModule;
+package com.Gokul.EmployeeServiceModule;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
